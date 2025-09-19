@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+---
+title: “About Me”
+---
 
-You can use the [editor on GitHub](https://github.com/saitama-op/saitama-op.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 👋 Hi, I’m Sanjay
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I’m a software developer/SRE specializing in **Go** and **Python**. I build backend services, automation scripts, and tools that make things easier.
 
-### Markdown
+## 🛠 Technologies & Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Language / Platform | Proficiency |
+|---------------------|-------------|
+| Golang              | Intermediate → Advanced |
+| Python              | Intermediate → Advanced |
+| REST APIs           | Designing, building |
+| Docker & Containers | Building, deploying microservices |
+| Git / CI/CD         | Version control, pipelines |
+| Linux, Bash         | Scripting, automation |
 
-```markdown
-Syntax highlighted code block
+## 🔭 Projects & Highlights
 
-# Header 1
-## Header 2
-### Header 3
+- **Project A** — Service manager for windows service using golang https://github.com/saitama-op/service-mgr
+- **Project B** — Automation scripts in Python for [task: e.g. scraping / monitoring]  
+- **Project C** — Terraform provisioning on AWS [https://github.com/saitama-op/terraform]
+- **Project D** — Pulls DNS Blacklist file(in parallel) and Merge to singlefile using go [https://github.com/saitama-op/blacklist_puller]
 
-- Bulleted
-- List
+> All of my active repositories are public — feel free to explore!  
 
-1. Numbered
-2. List
+## 🌱 Current Goals / What I’m Learning
 
-**Bold** and _Italic_ and `Code` text
+- Diving deeper into Go’s concurrency model  
+- Improving knowledge of distributed systems & microservices  
+- Exploring frameworks/libraries in Python (e.g. FastAPI, data pipelines)  
+- Contributing to open-source projects  
 
-[Link](url) and ![Image](src)
-```
+## 📫 How to Reach Me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 🔹 GitHub: [saitama-op](https://github.com/saitama-op)  
+- 🔹 LinkedIn / Twitter / Blog: https://www.linkedin.com/in/sanjay-kamalakshan-6531b516  
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saitama-op/saitama-op.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
