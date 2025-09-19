@@ -36,7 +36,7 @@ I’m a software developer/SRE specializing in **Go** and **Python**. I build ba
 ## 📫 How to Reach Me
 
 - 🔹 GitHub: [saitama-op](https://github.com/saitama-op)  
-- 🔹 LinkedIn / Twitter / Blog: https://www.linkedin.com/in/sanjay-kamalakshan-6531b516  
+- 🔹 LinkedIn / Twitter / Blog: [sanjay kamalakshan](https://www.linkedin.com/in/sanjay-kamalakshan-6531b516) 
 
 ---
 
