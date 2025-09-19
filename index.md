@@ -19,10 +19,10 @@ I’m a software developer/SRE specializing in **Go** and **Python**. I build ba
 
 ## 🔭 Projects & Highlights
 
-- **Project A** — Service manager for windows service using golang https://github.com/saitama-op/service-mgr
+- **Service Manager** — Service manager for windows service using golang https://github.com/saitama-op/service-mgr
 - **Project B** — Automation scripts in Python for [task: e.g. scraping / monitoring]  
-- **Project C** — Terraform provisioning on AWS [https://github.com/saitama-op/terraform]
-- **Project D** — Pulls DNS Blacklist file(in parallel) and Merge to singlefile using go [https://github.com/saitama-op/blacklist_puller]
+- **Terraform** — Terraform provisioning on AWS [https://github.com/saitama-op/terraform]
+- **DNS Blacklist Puller** — Pulls DNS Blacklist file(in parallel) and Merge to singlefile using go [https://github.com/saitama-op/blacklist_puller]
 
 > All of my active repositories are public — feel free to explore!  
 
